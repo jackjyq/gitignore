@@ -22,3 +22,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Windows Alternate Data Stream(ADS) files
+*Zone.Identifier*
